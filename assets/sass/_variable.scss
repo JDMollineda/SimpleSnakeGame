@@ -1,0 +1,31 @@
+$primary: #6ab5e7;
+// $primary: #3387bf;
+$secondary: #e0922e;
+$success: red;
+$info: #334a84;
+$warning: green;
+$danger: purple;
+$light: #f2f6fb;
+$dark: #023758;
+
+$negro:#00080c;
+$verde:#134225;
+$marron:#3f0b02;
+$rosado:#e95bca;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+
+    "negro": $negro,
+    "verde": $verde,
+    "marron": $marron,
+    "rosado": $rosado,
+
+);

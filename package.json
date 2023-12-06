@@ -1,0 +1,16 @@
+{
+  "name": "Simple Snake Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdmollineda",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "file:../frontenddevelopment/packages/fontawesome",
+    "bootstrap": "file:../frontenddevelopment/packages/bootstrap",
+    "jquery": "file:../frontenddevelopment/packages/jquery"
+  }
+}
